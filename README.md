@@ -22,7 +22,8 @@ ADistantAussie's Economy Add-on introduces a dynamic, trade-driven economy syste
   
 
 - - **ADDED**
-  - Over 60 Vanilla items added for you to buy and sell at the Bank
+
+   - Over 60 Vanilla items added for you to buy and sell at the Bank
 
 - **New Kits**: Find these in the work shop functions
   - **Nether Kit**:  
