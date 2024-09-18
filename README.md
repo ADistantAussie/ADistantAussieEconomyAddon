@@ -33,7 +33,7 @@ Player starts the mission by running:
 2.  For your Start function use /function applemissionstart
 Player collects apples and runs the update command
 
-3. For The second function will be /function checkapplequest this will check the progress of mission
+3. For The second function will be /function checkapplemission this will check the progress of mission
   
 5. In the third and final Adv. prompt input /function applescompleted
 When the player collects 10 apples, they run: they will get reward and set back to 0 apples
