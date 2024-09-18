@@ -30,12 +30,12 @@ Player starts the mission by running:
 
 1. set your NPC up with 3 buttons
   
-2.  For your Start function use /function your_namespace:start_apple_mission
+2.  For your Start function use /function applemissionstart
 Player collects apples and runs the update command
 
-3. For The second function will be /function your_namespace:check_apple_mission this will check the progress of mission
+3. For The second function will be /function checkapplequest this will check the progress of mission
   
-5. In the third and final Adv. prompt input /function your_namespace:update_apple_progress
+5. In the third and final Adv. prompt input /function applescompleted
 When the player collects 10 apples, they run: they will get reward and set back to 0 apples
 
 
