@@ -23,30 +23,20 @@ ADistantAussie's Economy Add-on introduces a dynamic, trade-driven economy syste
 
   ## ADDED
 
-   - Over 60 Vanilla items added for you to buy and sell at the Bank
+  Added Missions and Guilds
 
-- **New Kits**: Find these in the work shop functions
-  - **Nether Kit**:  
-    A set of nether-related gear, perfect for players venturing into the dangerous Nether dimension. Includes tools and armor designed for survival in the heat and danger.
-    
-  - **Redstone Kit**:  
-    Get essential redstone components for engineering complex redstone machinery. Ideal for builders and inventors looking to automate and innovate.
-    
-  - **Builder Kit**:  
-    Access blocks and tools that will help you bring your grandest architectural ideas to life.
+  ## Example Mission Workflow
+Player starts the mission by running:
 
-  - **Explorer Kit**:  
-    A kit with tools and supplies for adventuring far and wide, including maps, compasses, and more.
+1. set your NPC up with 3 buttons
+  
+2.  For your Start function use /function your_namespace:start_apple_mission
+Player collects apples and runs the update command
 
-  - **Enchanter Kit**:  
-    A collection of enchantment-related items and tools, enabling players to enchant their gear easily.
-
-  - **Farmer Kit**:  
-    Essential farming tools, seeds, and supplies for players looking to create sustainable farms and grow crops for profit.
-
-- **Enchantments**:  Find these in the Library Functions
-  - Now, every type of enchantment can be sold within the Addon, allowing players to enchant weapons and tools. Simply place the weapon you wish to enchant in the **first slot** of your inventory, and the enchantment will be applied automatically upon purchase.
-  - - **Effects**: Able to Purchase Status Effects
+3. For The second function will be /function your_namespace:check_apple_mission this will check the progress of mission
+  
+5. In the third and final Adv. prompt input /function your_namespace:update_apple_progress
+When the player collects 10 apples, they run: they will get reward and set back to 0 apples
 
 
 ## Installation Instructions
