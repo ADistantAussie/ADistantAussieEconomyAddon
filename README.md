@@ -3,7 +3,7 @@
 An NPC enhancement addon with mcfunctions made by ZVortex11325 EXTREMLEY EDITED by ADistantAussie
 
 **Version**: 1.0  
-**Minecraft Bedrock Edition**: 1.21.20
+**Minecraft Bedrock Edition**: 1.21.30
 
 ## Description
 
