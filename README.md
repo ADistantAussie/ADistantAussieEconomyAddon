@@ -46,6 +46,7 @@ ADistantAussie's Economy Add-on introduces a dynamic, trade-driven economy syste
 
 - **Enchantments**:  Find these in the Library Functions
   - Now, every type of enchantment can be sold within the Addon, allowing players to enchant weapons and tools. Simply place the weapon you wish to enchant in the **first slot** of your inventory, and the enchantment will be applied automatically upon purchase.
+  - - **Effects**: Able to Purchase Status Effects
 
 
 ## Installation Instructions
