@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A Moneyz function pack using Scoreboards edited by ADistantAussieby by ZVortex11325 for use with NPCs",
+        "name": "ADistantAussie's Economy Add-on",
+        "uuid": "8232c5fc-76ff-4744-8b78-b5d857da7686",
+        "min_engine_version": [ 1, 21, 0 ],
+        "version": [1, 5, 0]
+    },
+    "modules": [
+        {
+            "description": " Edited ADistantAussie I have added so much to pack! .",
+            "type": "data",
+            "uuid": "14a8f044-7317-4452-81b9-c37cdcf4b08d",
+
+            "version": [1, 5, 0]
+        }
+    ],
+    "dependencies": [
+    ]
+}
+
+
+
