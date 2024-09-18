@@ -41,24 +41,22 @@ When the player collects 10 apples, they run: they will get reward and set back 
 
 Here's a summarized version of the mission workflow for the guilds:
 
-Guild Mission Workflow
+**Guild Mission Workflow**
 Joining a Guild:
 
-Execute the command for the desired guild:
-Warriors Guild: /function warrior
-Mages Guild: /function mages
-Rangers Guild: /function explorers
-Builders Guild: /function builders
-Leaving a Guild:
+- Execute the command for the desired guild:
 
-Leave Guild 
+Warriors Guild: /function warrior
+
+Mages Guild: /function mages
+
+Rangers Guild: /function explorers
+
+Builders Guild: /function builders
+
+**Leaving a Guild:**
+
 /function leave_guild
-Tracking Status:
-Start a mission: /function your_namespace:start_mission
-Update progress: /function your_namespace:update_progress
-Check completion: /function your_namespace:check_completion
-Rewards:
-Complete missions to earn items, Moneyz, or experience points.
 
 
 
