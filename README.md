@@ -68,7 +68,7 @@ This will give you an NPC spawn egg to set up your shops.
 
 Enter a dialogue for the NPC and in the advanced setting change the command to a button type and enter a function command from the pack
 
-E.g. function farmer/beef or for the dragonfire: function dragonfire/rexarmorkit
+E.g. function farmer/beef or for the dragonfire: function dragonfire/kit/rexarmorkit
 
 Do this for all your shops and now you have a working economy in your world.
 
