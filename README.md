@@ -21,7 +21,7 @@ ADistantAussie's Economy Add-on introduces a dynamic, trade-driven economy syste
   - Added Scales to buy 
   
 
-  ##**ADDED**
+  ## ADDED
 
    - Over 60 Vanilla items added for you to buy and sell at the Bank
 
