@@ -1,0 +1,13 @@
+execute as @initiator[scores={Moneyz=0..}] run give @s bed 1
+execute as @initiator[scores={Moneyz=0..}] run give @s torch 64
+execute as @initiator[scores={Moneyz=0..}] run give @s iron_sword 1
+execute as @initiator[scores={Moneyz=0..}] run give @s iron_pickaxe 1
+execute as @initiator[scores={Moneyz=0..}] run give @s shield 1
+execute as @initiator[scores={Moneyz=0..}] run give @s bow 1
+execute as @initiator[scores={Moneyz=0..}] run give @s arrow 64
+execute as @initiator[scores={Moneyz=0..}] run give @s ender_chest 1
+execute as @initiator[scores={Moneyz=0..}] run give @s camp_fire 1
+execute as @initiator[scores={Moneyz=0..}] run give @s iron_helmet 1
+execute as @initiator[scores={Moneyz=0..}] run give @s iron_chestplate 1
+execute as @initiator[scores={Moneyz=0..}] run give @s iron_leggings 1
+execute as @initiator[scores={Moneyz=0..}] run give @s iron_boots 1
