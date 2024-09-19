@@ -24,6 +24,8 @@ ADistantAussie's Economy Add-on introduces a dynamic, trade-driven economy syste
   ## ADDED
 
   **Added Missions and Guilds**
+  use /function missions and /function guilds
+  to set up the guilds and missions
 
   ## Example Mission Workflow
 Player starts the mission by running:
