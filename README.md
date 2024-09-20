@@ -9,9 +9,9 @@ An NPC enhancement addon with mcfunctions made by ZVortex11325 EXTREMLEY EDITED 
 
 ADistantAussie's Economy Add-on introduces a dynamic, trade-driven economy system, along with powerful item kits, enchantments, and a thrilling mini-game. Whether you're trading, exploring, or preparing for battle, this mod adds depth and excitement to your Minecraft Bedrock world.
 
-## Features
+## Features in 2.5
 
-  ADDED
+
 
 ##  **NEW Owner Functions** 
 
