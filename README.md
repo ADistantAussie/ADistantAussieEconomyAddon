@@ -11,6 +11,58 @@ ADistantAussie's Economy Add-on introduces a dynamic, trade-driven economy syste
 
 ## Features
 
+  ADDED
+
+##  **NEW Owner Functions** 
+
+/function ownerfuncs/earthquake
+
+ - Earthquake
+
+ - General Realm Alerts 
+
+ - Clear All Inventory on All Players 
+
+
+
+  ## **Starter Kit function**
+
+  New Missions! Take on mission from NPCs with new functions!
+
+/function missions - Set up using this
+
+/function mission/5diamond
+
+
+
+ - collect Items and bring them to designated npc you choose
+
+## NEW **Kits**
+
+/function workshop/
+
+  - Wizard Kit
+
+ -  Potion Kit
+
+ - Wizard Kit
+
+## **Spark Pets Add on Compatibility**
+
+/function sparkpets/buyguineapig
+
+  - Added all pets including iguanas, German shepherds, golden retrievers, and more, with proper pricing (500 to 3000 Moneyz).
+
+  - T-Rex priced at 3000 Moneyz, being the most expensive item.
+
+## **Guilds**
+
+/function guilds - Set up using this
+
+/function guilds/explorers
+
+- Added the ability to join guilds
+
 - **Item Trading System**: 
   -  Buy and sell essential food items, including:
   - Currency management to facilitate in-game transactions.
@@ -88,8 +140,7 @@ Do this for all your shops and now you have a working economy in your world.
 
 
 ## Known Issues
-
-- Up to date and fixed
+Let me Know
 
 ## License
 
