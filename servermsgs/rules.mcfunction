@@ -1,1 +1,0 @@
-execute as @a run tell @a §eReminder: Please adhere to the server rules for a better experience!
