@@ -1,5 +1,8 @@
 # ADistantAussie's Economy Add-on
+# JOJ THE DISCORD https://discord.gg/QgzFgg6c
 
+
+# version 2.5 is on discord now!!! 
 An NPC enhancement addon with mcfunctions made by ZVortex11325 EXTREMLEY EDITED by ADistantAussie
 
 **Version**: 1.0  
