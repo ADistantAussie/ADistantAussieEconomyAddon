@@ -1,5 +1,5 @@
 # ADistantAussie's Economy Add-on
-# Join THE DISCORD https://discord.gg/QgzFgg6c
+# Join THE DISCORD https://discord.gg/Ef9QBckr
 
 
 # version 2.5 is on discord now!!! 
