@@ -5,7 +5,7 @@
 # version 2.5 is on discord now!!! 
 An NPC enhancement addon with mcfunctions made by ZVortex11325 EXTREMLEY EDITED by ADistantAussie
 
-**Version**: 1.0  
+**Version**: 2.5.0  
 **Minecraft Bedrock Edition**: 1.21.30
 
 ## Description
