@@ -1,6 +1,9 @@
 # ADistantAussie's Economy Add-on
 # Join THE DISCORD https://discord.gg/Ef9QBckr
 
+# DOWNLOAD 2.5 
+https://link-hub.net/1233379/adaeconomyaddonv25
+
 
 # version 2.5 is on discord now!!! 
 An NPC enhancement addon with mcfunctions made by ZVortex11325 EXTREMLEY EDITED by ADistantAussie
